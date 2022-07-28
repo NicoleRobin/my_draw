@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T06:38:03.546Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="kSWnCrH4hYTnqxGwKkLM" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T06:43:46.881Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="wzm3F8V-eucI1x4sb2SI" version="20.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="888" dy="1709" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,8 +155,14 @@
         <mxCell id="BF6atdaMuUsW39Aof-9J-50" value="server.InjectServerService()：注入grpc server" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="130" width="270" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="BF6atdaMuUsW39Aof-9J-55" value="" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=1;sketch=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;endArrow=open;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="BF6atdaMuUsW39Aof-9J-52" target="BF6atdaMuUsW39Aof-9J-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="BF6atdaMuUsW39Aof-9J-52" value="buildMicroServerService()：创建service" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="990" y="85" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BF6atdaMuUsW39Aof-9J-54" value="GetFullServiceName()：获取service full name：&lt;br&gt;namespace-serviceName-version" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1290" y="80" width="280" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
