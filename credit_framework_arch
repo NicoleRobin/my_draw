@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-28T07:36:50.453Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="tPf3tqYrIlgkz7ZNAZe8" version="20.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-28T07:38:36.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="NtLkxCm0Tb5NbuoTOrdH" version="20.2.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="807" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -267,8 +267,8 @@
         <mxCell id="BF6atdaMuUsW39Aof-9J-93" value="micro.NewService()" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1280" y="210" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="BF6atdaMuUsW39Aof-9J-96" value="etcdv3.NewRegistry()" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1280" y="-100" width="140" height="30" as="geometry" />
+        <mxCell id="BF6atdaMuUsW39Aof-9J-96" value="etcdv3.NewRegistry()：&lt;br&gt;创建基于etcd的服务注册发现组件" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;sketch=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1280" y="-90" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
